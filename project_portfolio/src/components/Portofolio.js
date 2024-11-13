@@ -1,8 +1,8 @@
 import React from 'react';
 
-const Portfolio = () => {
+const Portofolio = () => {
     return (
-        <section id="portfolio">
+        <section id="portofolio">
             <h2>Portofolio</h2>
             <ul>
                 <li><a href="link-ke-proyek1">Proyek 1</a></li>
@@ -13,4 +13,4 @@ const Portfolio = () => {
     );
 }
 
-export default Portfolio;
+export default Portofolio;
