@@ -3,11 +3,11 @@ import './Header.css';
 
 const Header = () => {
     return (
-        <header className="header">
-            <div className="header-content">
-                <h1>Nadya Sikami Pagiling</h1>
-                <p>Mahaasiswa | Informatika/Unklab</p>
-            </div>
+        <header>
+            <h1>Nadya Sikami Pagiling</h1>
+            <p>Informatika | Universitas Klabat</p>
+            <p>Email: S22310566@student.unklab.ac.id</p>
+            <p>Telepon: +62 877-6263-6165</p>
         </header>
     );
 };

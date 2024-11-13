@@ -1,17 +1,16 @@
-.header {
-    background-color: #2b2e4a;
-    color: #ffffff;
-    padding: 20px;
+header {
+    background-color: #0d4e74;
+    color: white;
     text-align: center;
+    padding: 20px
 }
 
-.header-content h1 {
+header h1 {
     font-size: 2.5rem;
-    margin: 0;
+    margin-bottom: 10px;
 }
 
-.header-content p {
+header p {
     font-size: 1.2rem;
-    margin: 0;
-    color: #a8a8d3;
+    margin: 5px 0;
 }
