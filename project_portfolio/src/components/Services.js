@@ -13,5 +13,7 @@ const Services = () => {
                 <p>Membawa konsep ke dimensi baru adalah sesuatu yang saya gemari. Sebagai seorang 3D artist, saya menciptakan visual yang memukau dan realistis, menghidupkan ide dengan detail dan tekstur yang mendalam. Baik itu untuk desain produk, animasi, atau visualisasi, saya berusaha membuat setiap karya 3D menjadi pengalaman yang mengesankan.</p>
             </div>
         </section>
-    )
-}
+    );
+};
+
+export default Services;
